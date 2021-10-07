@@ -1,1 +1,1 @@
-# Github Flow
+# Gitlab Flow
